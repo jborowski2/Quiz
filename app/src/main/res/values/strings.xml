@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_activity">Czy Rio de Janeiro to stolica Brazylii?</string>
+    <string name="q_version">Czy Elżbieta II została ogłoszona królową w latach 50. XX wieku?</string>
+    <string name="q_listener">Czy najwyższy szczyt masywu górskiego Babia Góra to Babia Góra?</string>
+    <string name="correct_answer">Dobrze</string>
+    <string name="incorrect_answer">Źle</string>
+    <string name="q_resources">Czy miś koala jest niedźwiedziem?</string>
+    <string name="q_find_resources">Czy jedna setna to 10 do potęgi "-2"?</string>
+</resources>
