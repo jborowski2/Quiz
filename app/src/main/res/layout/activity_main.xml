@@ -36,6 +36,12 @@
         android:text="@string/button_next"
         android:id="@+id/next_button"
         />
+    <Button android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Pokaż odpowiedź"
+        android:id="@+id/prompt_button"
+        />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

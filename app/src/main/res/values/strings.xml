@@ -10,4 +10,5 @@
     <string name="incorrect_answer">Źle</string>
     <string name="q_resources">Czy miś koala jest niedźwiedziem?</string>
     <string name="q_find_resources">Czy jedna setna to 10 do potęgi "-2"?</string>
+    <string name="answer_was_shown">Odpowiedź była wyświetlona!</string>
 </resources>
